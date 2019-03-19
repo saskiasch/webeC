@@ -2,10 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e969903d-dd60-4227-b622-f2b46a489223" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/docs/css/tutorials.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/storybook.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/css/storybook.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/css/tutorials.css" beforeDir="false" afterPath="$PROJECT_DIR$/docs/css/tutorials.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/storybook.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/storybook.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -28,26 +29,26 @@
       <file leaf-file-name="storybook.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/storybook.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+            <state relative-caret-position="85">
+              <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+            <state relative-caret-position="731">
+              <caret line="45" column="18" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tutorials.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tutorials.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/css/tutorials.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+            <state>
+              <caret lean-forward="true" />
             </state>
           </provider>
         </entry>
@@ -79,9 +80,9 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/docs/Example.html" />
-        <option value="$PROJECT_DIR$/docs/index.html" />
         <option value="$PROJECT_DIR$/docs/storybook.html" />
         <option value="$PROJECT_DIR$/docs/css/tutorials.css" />
+        <option value="$PROJECT_DIR$/docs/index.html" />
       </list>
     </option>
   </component>
@@ -141,12 +142,13 @@
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Saskia\Documents\FHNW\8-SemesterFS2019\webeC\Projekt\webeC\docs" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Saskia\Documents\FHNW\8-SemesterFS2019\webeC\Projekt\webeC\docs" />
       <recent name="C:\Users\Saskia\Documents\FHNW\8-SemesterFS2019\webeC\Projekt\webeC" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Saskia\Documents\FHNW\8-SemesterFS2019\webeC\Projekt\webeC\docs\css" />
+      <recent name="C:\Users\Saskia\Documents\FHNW\8-SemesterFS2019\webeC\Projekt\webeC\docs" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -217,12 +219,12 @@
       <workItem from="1552416437035" duration="2062000" />
       <workItem from="1552683406137" duration="1918000" />
       <workItem from="1552913128037" duration="1203000" />
-      <workItem from="1553009162941" duration="1450000" />
+      <workItem from="1553009162941" duration="2085000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6633000" />
+    <option name="totallyTimeSpent" value="7268000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="0" width="1385" height="1047" extended-state="0" />
@@ -330,24 +332,31 @@
     <entry file="file://$PROJECT_DIR$/docs/css/tutorials.xsl">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
+    <entry file="file://$PROJECT_DIR$/docs/storybook.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="85">
+          <caret line="5" column="33" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/storybook.html">
+    <entry file="file://$PROJECT_DIR$/docs/css/storybook.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="24" column="23" lean-forward="true" selection-start-line="24" selection-start-column="23" selection-end-line="24" selection-end-column="23" />
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/css/tutorials.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="32" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="32" />
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="45" column="18" lean-forward="true" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
         </state>
       </provider>
     </entry>
