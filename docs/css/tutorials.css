@@ -2,18 +2,73 @@ h1 {
     font-family: "Old English Text MT", sans-serif;
     font-size: 190%;
 }
-
-#header-links {
-    background-color: pink;
-    width: 25%;
+html, body {
+    margin: 0;
 }
 
-#header-mitte {
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+
+header, footer {
+
+    flex: 10%;
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+
+}
+
+header {
+    flex-grow: 2;
+}
+
+footer {
+    flex-grow: 1;
+}
+
+#description {
+    margin: 20px; 
+}
+
+#content {
+    flex-grow: 30;
+}
+
+#overview {
+    display: flex;
+    flex-direction: row;
+
+}
+
+#tutorials {
+    flex-grow: 61.8;
+    margin: 20px;
+}
+
+#history {
+    flex-grow: 38.2;
+    margin: 20px;
+}
+
+#header-links, #footer-links {
+    background-color: pink;
+    flex-grow: 1;
+}
+
+#header-mitte, #footer-mitte {
+    text-align: center;
     background-color: rosybrown;
-    width: 50%;
+    flex-grow: 2;
+
 }
 
-#header-rechts {
+#header-rechts, #footer-rechts {
+
     background-color: pink;
-    width: 25%;
+    flex-grow: 1;
 }
+
