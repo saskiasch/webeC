@@ -1,4 +1,19 @@
 h1 {
     font-family: "Old English Text MT", sans-serif;
-    font-size: 130%;
+    font-size: 190%;
+}
+
+#header-links {
+    background-color: pink;
+    width: 25%;
+}
+
+#header-mitte {
+    background-color: rosybrown;
+    width: 50%;
+}
+
+#header-rechts {
+    background-color: pink;
+    width: 25%;
 }
